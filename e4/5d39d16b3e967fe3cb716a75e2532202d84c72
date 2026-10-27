@@ -1,0 +1,24 @@
+packages/lib/api.ts
+  s_2c78b4c3f7c516::t_8371ec44cab3ef 316
+  s_2c78b4c3f7c516::t_c557350687755d 10
+packages/validation/api.test.ts
+  s_2c78b4c3f7c516::t_b0ff0dc5fa54ee 5,179-236
+packages/validation/api.ts
+  s_2c78b4c3f7c516::t_c6e915480caa90 1474-1498
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e45d39d16b3e967fe3cb716a75e2532202d84c72",
+  "prompts": {},
+  "sessions": {
+    "s_2c78b4c3f7c516": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e84407d99ffe4Pro8qZ1Suxar2",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
